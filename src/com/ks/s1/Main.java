@@ -8,7 +8,6 @@ public class Main {
 		Inbody i = new Inbody();
 		
 		m.info();
-		i.check(m);
 	}
 
 }
